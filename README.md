@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào mọi người 👋, Tôi là Như Đăng (Kachion)</h1>
-<h3 align="center">Hacker lỏ đến từ Việt Nam ❤️</h3>
+<h3 align="center">normal ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kachion27&label=Profile%20views&color=0e75b6&style=flat" alt="kachion27" /> </p>
 
