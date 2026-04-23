@@ -1,54 +1,59 @@
-# 👨‍💻 Xin chào, mình là Như Đăng!
-### Một lập trình viên [Vị trí của bạn - ví dụ: Fullstack Developer] đam mê sáng tạo nội dung và giải quyết vấn đề.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_PTIT_University.png" width="100" alt="PTIT Logo" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="https://rikkei.edu.vn/wp-content/uploads/2025/09/Logo.png" width="180" alt="Rikkei Education Logo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="Lượt xem" />
-</p>
+  <h1>Xin chào, mình là Nhu Dang 👋</h1>
+  <p><i>Sinh viên hệ đào tạo liên kết công nghệ giữa <strong>Học viện Công nghệ Bưu chính Viễn thông</strong> & <strong>Rikkei Academy</strong></i></p>
 
----
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="Views" />
+</div>
 
-### 🚀 Giới thiệu về mình
-- 🔭 Mình hiện đang làm việc tại **RE**
-- 🌱 Mình đang tìm hiểu thêm về **WEB**
-- 💬 Hãy hỏi mình về **React, Node.js hoặc UI/UX**
-- 📫 Liên hệ với mình qua: **n.hoanganh0203@gmail.com**
-- ⚡ Fun fact: **Mình có thể code liên tục 4 tiếng nếu có đủ cà phê! ☕**
+<hr />
 
----
+### 🎓 Giới thiệu bản thân
+- 🏫 Đang theo học tại: **PTIT x RIKKEI** (Chương trình đào tạo kỹ sư CNTT chất lượng cao).
+- 🎯 Mục tiêu: Trở thành một Fullstack Developer chuyên nghiệp.
+- 🔭 Tôi đang thực hiện các dự án về: Web Application, Java Spring Boot/NodeJS...
+- 🌱 Tôi đang học thêm về: Microservices, AWS Cloud và AI.
 
-### 🛠 Kỹ năng & Công cụ
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,git,docker,figma" />
-  </a>
-</p>
-
----
+### 🛠 Kỹ năng chuyên môn (Tech Stack)
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ### 📊 Thống kê GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=vision-friendly-dark" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=6" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
+### 📫 Kết nối với mình
 
----
+<br />
 
-### ✍️ Hoạt động gần đây
-- 📂 **[Dự án 1]**: phá sản.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
----
+<hr />
 
-### 🤝 Kết nối với mình
-<p align="left">
-<a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-messenger.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<p align="center">⭐ Follow mình để cùng học hỏi và phát triển nhé! ⭐</p>
